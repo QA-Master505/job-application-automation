@@ -18,6 +18,8 @@
   "homepage": "https://github.com/QA-Master505/job-application-automation#readme",
   "devDependencies": {
     "@playwright/test": "^1.54.2",
-    "@types/node": "^24.2.0"
+    "@types/node": "^24.2.0",
+    "dotenv": "^17.2.1",
+    "typescript": "^5.9.2"
   }
 }
